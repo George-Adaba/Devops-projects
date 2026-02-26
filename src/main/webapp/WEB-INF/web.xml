@@ -1,0 +1,5 @@
+<web-app xmls="http://xmlns.jcp.org/xml/ns/javaee"
+	 version="3.1">
+	
+	<display-name>Java 3 tier app</display-name>
+</web-app>
